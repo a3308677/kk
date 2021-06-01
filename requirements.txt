@@ -11,4 +11,4 @@ chardet==3.0.4
 idna==2.6
 pip==1.5.4
 setuptools==2.1
-urllib3==1.22
+urllib3==1.26.5
